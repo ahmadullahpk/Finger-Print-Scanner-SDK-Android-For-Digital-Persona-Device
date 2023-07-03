@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Finger Print Scanner</string>
+
+    <string name="privacyPolicy">https://biometric-technology-app.blogspot.com/2022/10/biometric-app-for-digital-persona.html</string>
+    <string name="accountName">Biometric Apps</string>
+    <string name="email">biometric.technology.apps@gmail.com</string>
+</resources>
