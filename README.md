@@ -7,7 +7,8 @@ our team making Flutter sdk for digital persona device.
 Demo App link on Google Play Store
 https://play.google.com/store/apps/details?id=com.digitalpersona.digitalpersona
 
-Contact me on Fiverr: Or WhatsApp 
+# Contact me
+Fiverr Or WhatsApp 
 https://www.fiverr.com/ahmadullahbs/design-and-develop-android-mobile-application
 +923115799224
 
