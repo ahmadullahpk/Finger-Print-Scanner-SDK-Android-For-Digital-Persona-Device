@@ -2,10 +2,9 @@
 Connect Digital Persona Finger Print Device with Android.
 We will provide java sdk for digital persona device for android
 
-our team making Flutter sdk for digital persona device.
 
 Demo App link on Google Play Store
-https://play.google.com/store/apps/details?id=com.usbfingerprintscanner.fingerprintscanner
+https://play.google.com/store/apps/details?id=usb.fingerprint.scanner
 
 # Contact me
 Fiverr Or WhatsApp 
